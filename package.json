@@ -10,7 +10,7 @@
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.6",
     "expo": "^37.0.5",
-    "expo-cli": "^3.17.17",
+    "expo-cli": "^3.28.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-native": "^0.62.1",
